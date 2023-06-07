@@ -1,6 +1,6 @@
 <h1 align="center">Heyy ( ͡° ͜ʖ ͡°) It's Afrah</h1>
 <h3 align="center">Coding to become one of the cool kids 😌</h3>
-
+<br>
 
   🔭 I’m currently working on a [Timetable-Generator](https://github.com/Afrah-K/Timetable-Generator)
 
