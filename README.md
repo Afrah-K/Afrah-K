@@ -12,7 +12,7 @@
 
   📫 How to reach me **trippysquid3@gmail.com**
 
- ⚡ Fun fact **I like cats 🐈**
+ ⚡ **I like cats 🐈 and anime 👾**
 
 <p align="left">
 </p>
