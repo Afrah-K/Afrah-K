@@ -1,17 +1,18 @@
 <h1 align="center">Heyy ( ͡° ͜ʖ ͡°) It's Afrah</h1>
 <h3 align="center">Coding to become one of the cool kids 😌</h3>
 
-- 🔭 I’m currently working on [Timetable-Generator](https://github.com/Afrah-K/Timetable-Generator)
+  🔭 I’m currently working on a [Timetable-Generator](https://github.com/Afrah-K/Timetable-Generator)
 
-- 🌱 I’m currently learning **Pytorch, MERN Stack**
+  ✅ Just finished creating [SVM and CNN](https://github.com/Afrah-K/Cats-Dogs-Image-Classification-SVM-CNN) models
 
-- 💬 Ask me about **Machine Learning, Web Development**
+  🌱 I’m currently learning **Pytorch, MERN Stack**
 
-- 📫 How to reach me **trippysquid3@gmail.com**
+  💬 Ask me about **Machine Learning, Web Development**
 
-- ⚡ Fun fact **I like cats 🐈**
+  📫 How to reach me **trippysquid3@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+ ⚡ Fun fact **I like cats 🐈**
+
 <p align="left">
 </p>
 
