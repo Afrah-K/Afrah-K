@@ -1,5 +1,5 @@
 <h1 align="center">Heyyy there ( ͡° ͜ʖ ͡°) </h1>
-<h3 align="center">Coding to become one of the cool kids 😌</h3>
+
 <br>
 
 
