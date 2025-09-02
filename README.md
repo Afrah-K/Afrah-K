@@ -3,9 +3,7 @@
 <br>
 
 
-  🌱 I’m currently learning **MERN Stack**
-
-  💬 Ask me about **Machine Learning, Web Development**
+  💬 Ask me about **Machine Learning, FullStack Development**
 
   📫 How to reach me **trippysquid3@gmail.com**
 
